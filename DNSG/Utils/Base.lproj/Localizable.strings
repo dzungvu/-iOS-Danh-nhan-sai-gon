@@ -1,0 +1,25 @@
+/* 
+  StringResource.strings
+  DNSG
+
+  Created by The Dung on 8/5/18.
+  Copyright © 2018 The Dung. All rights reserved.
+*/
+
+"news"                                                              = "News";
+"business_man"                                                      = "Business Man";
+"gavernance"                                                        = "Gavernance";
+"business"                                                          = "Business";
+"multimedia"                                                        = "Multimedia";
+"technology"                                                        = "Technology";
+"forum"                                                             = "Forum";
+"trade_chance"                                                      = "Trade chance";
+"travel"                                                            = "Travel";
+"culture_arts"                                                      = "Culture and Arts";
+
+"network_not_available_title"                                       = "Can not connect to the internet";
+"network_not_available_message"                                     = "Internet is not available, please check and try again!";
+"ok"                                                                = "OK";
+
+"something_went_wong"                                               = "Something went wrong";
+"can_not_finish"                                                    = "We can not finish your request";

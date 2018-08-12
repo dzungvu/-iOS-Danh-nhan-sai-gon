@@ -1,0 +1,25 @@
+/* 
+  StringResource.strings
+  DNSG
+
+  Created by The Dung on 8/5/18.
+  Copyright © 2018 The Dung. All rights reserved.
+*/
+
+"news"                                                              = "Tin tức";
+"business_man"                                                      = "Doanh nhân";
+"gavernance"                                                        = "Quản trị";
+"business"                                                          = "Kinh doanh";
+"multimedia"                                                        = "Multimedia";
+"technology"                                                        = "Công nghệ";
+"forum"                                                             = "Diễn đàn";
+"trade_chance"                                                      = "Cơ hội giao thương";
+"travel"                                                            = "Du lịch";
+"culture_arts"                                                      = "Văn hoá nghệ thuật";
+
+"network_not_available_title"                                       = "Không thể kết nối";
+"network_not_available_message"                                     = "Không có internet mà đòi đọc báo online";
+"ok"                                                                = "OK";
+
+"something_went_wong"                                               = "Lỗi kết nối";
+"can_not_finish"                                                    = "Chúng tôi không thể hoàn thành yêu cầu của bạn";
